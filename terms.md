@@ -3,7 +3,7 @@ User Agreement
 
 Effective September 1, 2022. Last revised September 1, 2022.
 
-This User Agreement ("Terms") applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the "Services") provided by Pentadrive OÜ ("we", "us", or "our"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use our Services. Please take a look at our Privacy Policy too—it explains how and why we collect, use, and share information about you when you access or use our Services.
+This User Agreement ("Terms") applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the "Services") provided by Pentadrive OÜ ("we", "us", or "our"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use our Services. Please take a look at our [Privacy Policy](https://www.moonfly.app/!/privacy) too—it explains how and why we collect, use, and share information about you when you access or use our Services.
 
 ### 1\. Your Access to the Services
 
