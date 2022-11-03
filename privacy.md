@@ -138,7 +138,7 @@ If you have a concern about our processing of personal data that we are not able
 *   **For individuals in the UK:** https://ico.org.uk/global/contact-us/
 *   **For individuals in Switzerland:** https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html
 
-### Contact US
+### Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at \*\*\*\*\*\*\*.
 
