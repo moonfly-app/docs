@@ -35,7 +35,7 @@ Avoid hateful activities, specially those targeting marginalized groups. Margina
 Some examples of hateful activities that would violate the rule:
 
 *   Communities dedicated to mocking people with physical disabilities.
-*    Posts describing a race or ethnicity as sub-human or inferior.
+*   Posts describing a race or ethnicity as sub-human or inferior.
 *   Comments arguing that rape should be acceptable and not a crime.
 *   Memes declaring that it is sickening that a group of people has the right to vote.
 
