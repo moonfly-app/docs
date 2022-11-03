@@ -96,7 +96,7 @@ Don’t do anything that interferes with normal use of the platform. No hacking,
 
 Enforcement
 
-We have a variety of ways of enforcing our rules, including, but not limited to
+We have a variety of ways of enforcing our rules, including, but not limited to:
 
 *   Temporary or permanent suspension of accounts
 *   Removal of privileges from, or adding restrictions to, accounts
