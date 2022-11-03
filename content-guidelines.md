@@ -62,21 +62,21 @@ How do I avoid being labeled as a spammer?
 
 Cheating or attempting to manipulate voting will result in your account being banned.
 
-#### 3\. Respect the privacy of others
+### 3\. Respect the privacy of others
 
 Instigating harassment, for example by revealing someone’s personal or confidential information, is not allowed. Never post or threaten to post intimate or sexually-explicit media of someone without their consent.
 
-#### 4\. Do not post or encourage the posting of sexual or suggestive content involving minors.
+### 4\. Do not post or encourage the posting of sexual or suggestive content involving minors.
 
-#### 5\. No impersonation
+### 5\. No impersonation
 
 Don’t impersonate an individual or an entity in a misleading or deceptive manner. While we permit satire and parody, we will always take into account the context of any particular content.
 
-#### 6\. Properly label content
+### 6\. Properly label content
 
 Titles should not be misleading. Particularly content that is graphic, sexually-explicit, or offensive should be properly labeled.
 
-#### 7\. Keep it legal
+### 7\. Keep it legal
 
 Avoid posting illegal content or soliciting or facilitating illegal or prohibited transactions.
 
@@ -90,7 +90,7 @@ You may not use the platform to solicit or facilitate any transaction or gift in
 *   Falsified official documents or currency
 *   Scams or other fraudulent services
 
-#### 8\. Don’t break the platform
+### 8\. Don’t break the platform
 
 Don’t do anything that interferes with normal use of the platform. No hacking, bots, malicious code, automated requests, etc. If you think it might be wrong, it probably is.
 
