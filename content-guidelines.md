@@ -1,7 +1,9 @@
 Content Guidelines
 ------------------
 
-Every community on the platform is defined by its owner and users. Some of these users help manage the community as moderators. Please abide by the rules of communities in which you participate and do not interfere with those in which you are not a member.
+We encourage thoughtful debate with respect for all points of view. However, we forbid some behavior in order to maintain a secure and friendly environment where a variety of people can engage in meaningful conversations.
+
+Every profile and community on the platform is defined by its owner and users. Some of these users help manage the community as moderators. Please abide by the rules of communities in which you participate and do not interfere with those you are not a part of.
 
 In addition to community specific rules, all users on the platform must also abide by these Content Guidelines. We ask that you abide by not just the letter of these rules, but the spirit as well. Community specific rules which conflict with these Content Guidelines should be ignored.
 
