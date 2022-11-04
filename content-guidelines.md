@@ -111,7 +111,7 @@ You may not use the platform to solicit or facilitate any transaction or gift in
 
 Don’t do anything that interferes with normal use of the platform. No hacking, bots, malicious code, automated requests, etc. If you think it might be wrong, it probably is.
 
-Enforcement
+#### Enforcement
 
 We have a variety of ways of enforcing our rules, including, but not limited to:
 
