@@ -43,7 +43,7 @@ Some examples of hateful activities that would violate the rule:
 
 ### 2\. Follow the rules
 
-Abide by community rules. Post authentic content into communities where you have a personal interest, and do not cheat or engage in content manipulation (including spamming, vote manipulation, ban evasion, or subscriber fraud) or otherwise interfere with or disrupt our communities.
+Abide by community rules. Post authentic content into communities where you have a personal interest, and do not cheat or engage in content manipulation (including spamming, vote manipulation, ban evasion, or subscriber fraud) or otherwise interfere with or disrupt our communities. Do not post or share misleading, disruptive, harmful or prohibited content.
 
 #### No Spamming
 
@@ -65,11 +65,25 @@ Vote manipulation is against the rules, whether it is manual, programmatic, or o
 
 Cheating or attempting to manipulate voting will result in your account being banned.
 
+#### Prohibited and restricted content
+We do not allow the following types of content:
+
+*   Pornographic pictures or videos.
+*   Promotion of extreme content.
+*   Facilitation of gambling or betting.
+*   Facilitation of buying or selling social media interactions, including off-platform.
+*   Facilitation of sexual services.
+*   Facilitation of copyright or other intellectual property violation.
+*   Facilitation of illegal hacking (e.g., stealing credentials, compromising personal data).
+*   Pseudoscience, disinformation, or other content that is contrary to public health or safety.
+
 ### 3\. Respect the privacy of others
 
 Instigating harassment, for example by revealing someone’s personal or confidential information, is not allowed. Never post or threaten to post intimate or sexually-explicit media of someone without their consent.
 
 ### 4\. Do not post or encourage the posting of sexual or suggestive content involving minors.
+
+We do not allow content promoting the sexual, violent, or other exploitation of minors, including the sexualization of fictional minors.
 
 ### 5\. No impersonation
 
@@ -77,7 +91,7 @@ Don’t impersonate an individual or an entity in a misleading or deceptive mann
 
 ### 6\. Properly label content
 
-Titles should not be misleading. Particularly content that is graphic, sexually explicit, or offensive should be properly labeled.
+Titles should not be misleading. Particularly content that is graphic, sexual, or offensive should be properly labeled.
 
 ### 7\. Keep it legal
 
@@ -85,13 +99,13 @@ Avoid posting illegal content or soliciting or facilitating illegal or prohibit
 
 You may not use the platform to solicit or facilitate any transaction or gift involving certain goods and services, including:
 
-*   Firearms, ammunition, explosives, legally controlled firearms parts or accessories (e.g., bump stock-type devices, silencers/suppressors, etc.), or 3D printing files to produce any of the aforementioned;
-*   Drugs, including alcohol and tobacco, or any controlled substances (except advertisements placed in accordance with our advertising policy);
-*   Paid services involving physical sexual contact;
-*   Stolen goods;
-*   Personal information;
-*   Falsified official documents or currency
-*   Scams or other fraudulent services
+*   Firearms, ammunition, explosives, legally controlled firearms parts or accessories (e.g., bump stock-type devices, silencers/suppressors, etc.), or 3D printing files to produce any of the aforementioned.
+*   Drugs, including alcohol and tobacco, or any controlled substances (except advertisements placed in accordance with our advertising policy).
+*   Paid services involving physical sexual contact.
+*   Stolen goods.
+*   Personal information.
+*   Falsified official documents or currency.
+*   Scams or other fraudulent services.
 
 ### 8\. Don’t break the platform
 
@@ -101,8 +115,8 @@ Enforcement
 
 We have a variety of ways of enforcing our rules, including, but not limited to:
 
-*   Temporary or permanent suspension of accounts
-*   Removal of privileges from, or adding restrictions to, accounts
-*   Adding restrictions to communities
-*   Removal of content
-*   Banning of users and communities
+*   Temporary or permanent suspension of accounts.
+*   Removal of privileges from, or adding restrictions to, accounts.
+*   Adding restrictions to communities.
+*   Removal of content.
+*   Banning of users and communities.
