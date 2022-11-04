@@ -5,7 +5,8 @@
 [](/!/faq){translate=title.frequently-asked-questions}
 
 #### []{translate=title.standard-support}
-[]{translate=explain.standard-support}
+[]{translate=explain.standard-support}  
+[](/u/moonfly-support){translate=title.support-community handle=support-community}
 
 #### []{translate=title.priority-support}
 []{translate=explain.priority-support}  
