@@ -1,6 +1,8 @@
 Content Guidelines
 ------------------
 
+Last revised November 4, 2022.
+
 We encourage thoughtful debate with respect for all points of view. However, we forbid some behavior in order to maintain a secure and friendly environment where a variety of people can engage in meaningful conversations.
 
 Every profile and community on the platform is defined by its owner and users. Some of these users help manage the community as moderators. Please abide by the rules of communities in which you participate and do not interfere with those you are not a part of.
