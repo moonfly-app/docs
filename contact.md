@@ -1,7 +1,7 @@
 ## []{translate=title.contact-us}
 
 #### []{translate=title.faq}
-[]{translate=explain.faq}
+[]{translate=explain.faq}  
 [](/!/faq){translate=title.frequently-asked-questions}
 
 #### []{translate=title.standard-support}
