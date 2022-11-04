@@ -43,19 +43,20 @@ Some examples of hateful activities that would violate the rule:
 
 Abide by community rules. Post authentic content into communities where you have a personal interest, and do not cheat or engage in content manipulation (including spamming, vote manipulation, ban evasion, or subscriber fraud) or otherwise interfere with or disrupt our communities.
 
-####   
-
 #### No Spamming
 
-Spam is defined as repeated, unwanted, and/or unsolicited actions, whether automated or manual. Spam is illegal and a violation of our Terms of Service and Content Guidelines, punishable by content removal, account suspension or termination and possible legal action.
+Spam is defined as repeated, unwanted, and/or unsolicited actions, whether automated or manual. Spam is illegal and a violation of our User Agreement and Content Guidelines, punishable by content removal, account suspension or termination and possible legal action.
 
 How do I avoid being labeled as a spammer?
 
-*   Post authentic content.   
-*   If your contributions consist primarily of links to a business that you run, own, or otherwise benefit from, tread carefully and consider paid advertising opportunities. 
+*   Post authentic content.
+*   If your contributions consist primarily of links to a business that you run, own, or otherwise benefit from, tread carefully and consider paid advertising opportunities.
 *   If you’re unsure if your content is considered spammy or unwelcome, contact the moderators of the community to which you’d like to submit. Communities may have specific rules in addition to these guidelines.
-*   No vote manipulation
-*   Vote manipulation is against the rules, whether it is manual, programmatic, or otherwise. Some common forms of vote cheating are:
+
+#### No vote manipulation
+
+Vote manipulation is against the rules, whether it is manual, programmatic, or otherwise. Some common forms of vote cheating are:
+
 *   Using multiple accounts, voting services, or any other software to increase or decrease vote scores.
 *   Asking people to vote up or down certain posts, either on the platform itself or through social networks, messaging, etc. for personal gain.
 *   Forming or joining a group that votes together, either on a specific post, a user's posts, posts from a domain, etc.
@@ -74,7 +75,7 @@ Don’t impersonate an individual or an entity in a misleading or deceptive mann
 
 ### 6\. Properly label content
 
-Titles should not be misleading. Particularly content that is graphic, sexually-explicit, or offensive should be properly labeled.
+Titles should not be misleading. Particularly content that is graphic, sexually explicit, or offensive should be properly labeled.
 
 ### 7\. Keep it legal
 
