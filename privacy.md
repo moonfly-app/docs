@@ -140,5 +140,5 @@ If you have a concern about our processing of personal data that we are not able
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at \*\*\*\*\*\*\*.
+If you have any questions about this Privacy Policy, please [Contact Us](https://www.moonfly.app/!/contact).
 
