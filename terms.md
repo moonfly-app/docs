@@ -125,6 +125,8 @@ We may make changes to these Terms from time to time. If we make changes, we wil
 
 Because we offer a variety of Services, you may be asked to agree to additional terms before using a specific product or service offered by us ("Additional Terms"). To the extent any Additional Terms conflict with these Terms, the Additional Terms govern with respect to your use of the corresponding Service.
 
+*   If you want to monetize Your Content, you must also agree to the [Monetization Agreement](https://www.moonfly.app/!/monetization-agreement).
+
 ### 17\. Termination
 
 You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deactivating your Account, your Account may be deactivated due to prolonged inactivity.
