@@ -1,7 +1,7 @@
 User Agreement
 --------------
 
-Last revised November 4, 2022.
+Last revised November 7, 2022.
 
 This User Agreement ("Terms") applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the "Services") provided by Pentadrive OÜ ("we", "us", or "our"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use our Services. Please take a look at our [Privacy Policy](https://www.moonfly.app/!/privacy) too—it explains how and why we collect, use, and share information about you when you access or use our Services.
 
@@ -77,7 +77,7 @@ Moderating a community is an unofficial, voluntary position that may be availabl
 
 If you choose to moderate a community:
 
-*   You agree to follow the Moderator Guidelines;
+*   You agree to follow the [Moderator Guidelines](https://www.moonfly.app/!/moderator-guidelines);
 *   You agree that when you receive reports related to a community you moderate, you will take appropriate action, which may include removing content that violates policy and/or flagging it for further review;
 *   You are not, and may not represent that you are, authorized to act on our behalf;
 *   You may not enter into any agreement with a third party on our behalf, without our written approval;
