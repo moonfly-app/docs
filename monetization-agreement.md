@@ -1,7 +1,7 @@
 Monetization Agreement
 ----------------------
 
-Effective as of November 5th, 2022.
+Effective as of November 5th, 2022. Last revised November 11, 2022.
 
 This Monetization Agreement ("Terms" or "Monetization Agreement") between Pentadrive OÜ ("we", "us", or "our") and you, governs the monetization of your posts and comments ("Content") in the context of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the "Services" or "Platform") provided by us. By accessing or using our Services, you agree to be bound by these Terms.
 
