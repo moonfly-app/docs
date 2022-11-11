@@ -3,7 +3,7 @@ User Agreement
 
 Last revised November 7, 2022.
 
-This User Agreement ("Terms") applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the "Services") provided by Hayamaka LLC ("we", "us", or "our"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use our Services. Please take a look at our [Privacy Policy](https://www.moonfly.app/!/privacy) too—it explains how and why we collect, use, and share information about you when you access or use our Services.
+This User Agreement ("Terms") applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the "Services") provided by Pentadrive OÜ ("we", "us", or "our"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use our Services. Please take a look at our [Privacy Policy](https://www.moonfly.app/!/privacy) too—it explains how and why we collect, use, and share information about you when you access or use our Services.
 
 ### 1\. Your Access to the Services
 
@@ -115,9 +115,7 @@ In no event and under no theory of liability, including contract, tort, negligen
 
 ### 14\. Governing Law and Venue
 
-Any claims arising out of or relating to these Terms or the Services with the exception of those regarding the Monetization Agreement, will be governed by the laws of the state of Oregon without regard to its conflict of laws rules. All disputes related to these Terms or the Services with the exception of those regarding the Monetization Agreement, will be brought solely in the courts located in Portland, Oregon and you consent to personal jurisdiction in these courts.
-
-Any claims arising out of or relating to the Monetization Agreement will be governed by the laws of Estonia without regard to its conflict of laws rules. All disputes related to the Monetization Agreement, will be brought solely in the courts located in Tallinn, Estonia and you consent to personal jurisdiction in these courts.
+Any claims arising out of or relating to these Terms or the Services will be governed by the laws of Estonia without regard to its conflict of laws rules. All disputes related to these Terms or the Services will be brought solely in the courts located in Tallinn, Estonia and you consent to personal jurisdiction in these courts.
 
 ### 15\. Changes to these Terms
 
@@ -140,4 +138,3 @@ The following sections will survive any termination of these Terms or of your Ac
 ### 18\. Miscellaneous
 
 These Terms constitute the entire agreement between you and us regarding your access to and use of the Services. Our failure to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision. If any provision of these Terms is, for any reason, held to be illegal, invalid, or unenforceable, the rest of the Terms will remain in effect. You may not assign or transfer any of your rights or obligations under these Terms without our consent. We may freely assign any of our rights and obligations under these Terms.
-
