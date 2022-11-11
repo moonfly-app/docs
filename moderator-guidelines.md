@@ -1,5 +1,6 @@
 Moderator Guidelines
 --------------------
+Last revised November 11, 2022.
 
 ### Create, Facilitate, and Maintain a Stable Community
 
