@@ -1,7 +1,7 @@
 Privacy Policy
 --------------
 
-Effective September 1, 2022. Last revised September 1, 2022.
+Effective September 1, 2022. Last revised November 11, 2022.
 
 This Privacy Policy explains how Pentadrive OÜ ("we" or "us") collects, uses, and discloses information about you. This Privacy Policy applies when you use our websites, mobile applications, and other online products and services that link to this Privacy Policy (collectively, "the platform" or our "Services"), contact our customer service team, engage with us on social media, or otherwise interact with us.
 
