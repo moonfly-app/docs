@@ -1,7 +1,7 @@
 Content Guidelines
 ------------------
 
-Last revised November 4, 2022.
+Last revised November 11, 2022.
 
 We encourage thoughtful debate with respect for all points of view. However, we forbid some behavior in order to maintain a secure and friendly environment where a variety of people can engage in meaningful conversations.
 
