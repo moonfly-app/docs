@@ -9,7 +9,7 @@ FAQ
 
 Users can post photos, images, articles, links, memes, questions, ideas, and, in the near future, videos.
 
-Learn more at: [https://www.moonfly.app/p/1667730666349u133756\_1667750314105p344951](https://www.moonfly.app/p/1667730666349u133756_1667750314105p344951)
+Learn more at: [https://www.moonfly.app/p/1667730666349u133756\_1667750314105p344951](https://www.moonfly.app/p/1667730666349u133756_1667750314105p344951).
 
 #### Do you have an app?
 
@@ -35,7 +35,7 @@ We store all your data on our **German** servers.
 
 #### How can I make money on Moonfly?
 
-You can generate revenue by posting engaging content and meaningful comments. More information can be found at [https://www.moonfly.app/p/1667730666349u133756\_1667750314105p344951.](https://www.moonfly.app/p/1667730666349u133756_1667750314105p344951.)
+You can generate revenue by posting engaging content and meaningful comments. More information can be found at [https://www.moonfly.app/p/1667730666349u133756\_1667750314105p344951.](https://www.moonfly.app/p/1667730666349u133756_1667750314105p344951).
 
 #### What content can be monetized?
 
