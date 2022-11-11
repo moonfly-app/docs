@@ -3,7 +3,7 @@ Privacy Policy
 
 Effective September 1, 2022. Last revised September 1, 2022.
 
-This Privacy Policy explains how Hayamaka LLC ("we" or "us") collects, uses, and discloses information about you. This Privacy Policy applies when you use our websites, mobile applications, and other online products and services that link to this Privacy Policy (collectively, "the platform" or our "Services"), contact our customer service team, engage with us on social media, or otherwise interact with us.
+This Privacy Policy explains how Pentadrive OÜ ("we" or "us") collects, uses, and discloses information about you. This Privacy Policy applies when you use our websites, mobile applications, and other online products and services that link to this Privacy Policy (collectively, "the platform" or our "Services"), contact our customer service team, engage with us on social media, or otherwise interact with us.
 
 We may change this Privacy Policy from time to time. If we update it, we will notify you by modifying the date at the top of this policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website or providing you with a notification). We encourage you to review this Privacy Policy regularly to stay informed about our information practices and the choices available to you.
 
