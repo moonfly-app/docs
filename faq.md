@@ -25,7 +25,7 @@ We are a small team based in the European Union; our company is headquartered in
 
 We are a bootstrapped, fully owner-operated start-up, not backed by venture capital nor investors.
 
-We believe the money in social media belongs to content creators, not billionaires with abusive platforms; that's why we have created Moonfly to be a place where people producing engaging content can reap the benefits of their efforts and where consumers can support them.
+We believe the money in social media belongs to content creators, not billionaires with abusive platforms. Moonfly is a place where content creators can reap the benefits of their work and where other users can support them.
 
 #### Where is my data stored?
 
@@ -35,11 +35,13 @@ We store all your data on our **German** servers.
 
 #### How can I make money on Moonfly?
 
-You can generate revenue by posting engaging content and receiving meaningful comments. More information can be found at [https://www.moonfly.app/p/1667730666349u133756\_1667750314105p344951.](https://www.moonfly.app/p/1667730666349u133756_1667750314105p344951.)
+You can generate revenue by posting engaging content and meaningful comments. More information can be found at [https://www.moonfly.app/p/1667730666349u133756\_1667750314105p344951.](https://www.moonfly.app/p/1667730666349u133756_1667750314105p344951.)
 
 #### What content can be monetized?
 
-Posts and comments that are engaging have a high chance of being monetized. Our algorithm uses multiple factors and indicators to determine the relevance of posts and comments. If your post or comment is funny, interesting, captivating, and somewhat popular, it'll very likely be monetized.
+Quality posts and comments are automatically monetized. If your post or comment is funny, interesting, captivating, and somewhat popular, it'll very likely generate revenue.
+
+Our algorithm uses multiple factors and indicators to determine the relevance of posts and comments. 
 
 #### How do I know if my post was monetized?
 
@@ -73,7 +75,7 @@ If your account is notable and should be protected against impersonation, it can
 
 #### How do I get verified?
 
-Contact us to get verified at verified@moonfly.app.
+[Contact us](/!/contact) to get verified.
 
 #### Is it free to get verified?
 
