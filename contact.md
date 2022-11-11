@@ -13,6 +13,11 @@
 
 []{translate=support-email}
 
+#### []{translate=title.account-verification}
+[]{translate=explain.account-verification}  
+
+[]{translate=verification-support}
+
 #### []{translate=title.press-contact}
 []{translate=explain.press-contact}  
 
