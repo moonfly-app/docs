@@ -63,7 +63,7 @@ Our revenue comes from advertisers. We try to keep as few ads as possible while 
 
 #### Where are the ads?
 
-We have just launched, and the ads will be deployed shortly. We have deals with several advertising networks and everything is ready to go. We only want to get a little bit more traction before implementing them.
+We have just launched, and the ads will be deployed shortly. We have deals with several advertising networks and everything is ready to go.
 
 ### Verification
 
