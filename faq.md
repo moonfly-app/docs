@@ -21,9 +21,7 @@ Video posts will be available soon.
 
 #### Who is behind the platform?
 
-We are a small team based in the European Union; our company is headquartered in Tallinn, Estonia.
-
-We are a bootstrapped, fully owner-operated start-up, not backed by venture capital nor investors.
+We are a dynamic team based the European Union, our company is headquartered in Tallinn, Estonia. We are fully owner operated, financially stable, debt free and in it for the long run.
 
 We believe the money in social media belongs to content creators, not billionaires with abusive platforms. Moonfly is a place where content creators can reap the benefits of their work and where other users can support them.
 
@@ -65,7 +63,7 @@ Our revenue comes from advertisers. We try to keep as few ads as possible while 
 
 #### Where are the ads?
 
-We have just launched, and the ads will be deployed shortly.
+We have just launched, and the ads will be deployed shortly. We have deals with several advertising networks and everything is ready to go. We only want to get a little bit more traction before implementing them.
 
 ### Verification
 
