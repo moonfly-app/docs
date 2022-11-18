@@ -13,7 +13,7 @@ Learn more at: [https://www.moonfly.app/p/1667730666349u133756\_1667750314105p34
 
 #### Do you have an app?
 
-Our app is almost ready—a few DAYS away, we hope—and will be available for iOS and Android devices. In the meantime, you can start posting content and building a following on the web version of the platform.
+Our app is almost ready—a few DAYS away—and will be available for iOS and Android devices. In the meantime, you can start posting content and building a following on the web version of the platform.
 
 #### Can I post videos?
 
