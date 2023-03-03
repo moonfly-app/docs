@@ -7,7 +7,7 @@ PREGUNTAS FRECUENTES
 
 Moonfly es la red de medios sociales que paga a sus creadores de contenido.
 
-Los usuarios pueden publicar fotos, imágenes, artículos, enlaces, memes, preguntas, ideas y, en un futuro próximo, vídeos.  
+Los usuarios pueden publicar fotos, artículos, enlaces, memes, preguntas, ideas y vídeos.  
 Más información en: https://www.moonfly.app/p/1667730666349u133756\_1667750314105p344951.
 
 #### ¿Tienen una aplicación?
