@@ -3,9 +3,9 @@ Sisältöohjeet
 
 Kannustamme harkittuun keskusteluun kaikkia näkökantoja kunnioittaen. Kiellämme kuitenkin tietynlaisen käyttäytymisen, jotta voimme ylläpitää turvallista ja ystävällistä ympäristöä, jossa erilaiset ihmiset voivat käydä mielekkäitä keskusteluja.
 
-Jokainen profiili ja yhteisö on omistajansa ja käyttäjiensä määrittelemä. Osa käyttäjistä voi auttaa yhteisön hoidossa moderaattoreina. Noudata aina yhteisöjen sääntöjä, äläkä puutu yhteisöihin, joihin et kuulu.
+Jokainen profiili ja yhteisö on omistajansa ja käyttäjiensä määrittelemä. Osa käyttäjistä voi auttaa yhteisön ylläpitämisessä. Noudata aina yhteisöjen sääntöjä, äläkä puutu yhteisöihin, joihin et kuulu.
 
-Yhteisökohtaisten sääntöjen lisäksi kaikkien alustan käyttäjien on noudatettava myös näitä sisältöohjeita. Pyydämme sinua noudattamaan näiden sääntöjen kirjaimen lisäksi myös niiden henkeä. Yhteisökohtaiset säännöt, jotka ovat ristiriidassa näiden sisältöohjeiden kanssa, on jätettävä huomiotta.
+Yhteisökohtaisten sääntöjen lisäksi kaikkien alustan käyttäjien on noudatettava myös näitä sisältöohjeita. Pyydämme sinua noudattamaan näiden sääntöjen kirjaimen lisäksi myös niiden henkeä. Sellaiset yhteisökohtaiset säännöt, jotka ovat ristiriidassa näiden sisältöohjeiden kanssa, on jätettävä huomiotta.
 
 ### 1\. Käyttäydy
 
@@ -13,13 +13,13 @@ Jokaisella on oikeus käyttää alustaa ilman häirintää, kiusaamista ja väki
 
 #### Älä häiritse
 
-Emme suvaitse ihmisten häirintää, uhkailua tai kiusaamista sivustollamme; emme myöskään suvaitse yhteisöjä, jotka ovat omistautuneet tällaiselle käytökselle.
+Emme suvaitse ihmisten häirintää, uhkailua tai kiusaamista alustallamme; emme myöskään suvaitse yhteisöjä, jotka ovat omistautuneet tällaiselle käytökselle.
 
-Ärsyttävyys, alaspäin äänestäminen tai eri mieltä oleminen jonkun kanssa, vaikka se olisikin voimakasta, ei ole häirintää. Sen sijaan jonkun uhkailu, henkilöön tai ryhmään kohdistuva solvaaminen, häiritsevä seuraaminen alustalla, muiden rohkaiseminen johonkin näistä toimista tai muu sellainen käyttäytyminen, joka ehkäisee kohtuullista ihmistä osallistumasta alustalle, ylittää rajan.
+Ärsyttävyys, alaspäin äänestäminen tai eri mieltä oleminen jonkun kanssa, vaikka se olisikin voimakasta, ei ole häirintää. Sen sijaan uhkailu, henkilöön tai ryhmään kohdistuva solvaaminen, häiritsevä seuraaminen alustalla, muiden rohkaiseminen johonkin näistä toimista tai muu sellainen käyttäytyminen, joka ehkäisee kohtuullista ihmistä osallistumasta alustalle, ylittää rajan.
 
 #### Ei väkivaltaa
 
-Älä julkaise sisältöä, joka rohkaisee, ylistää, yllyttää tai kehottaa fyysiseen vahingoittamiseen tai väkivaltaan yksilöä (mukaan lukien itseäsi) tai ihmisryhmää vastaan; älä myöskään julkaise sisältöä, joka ylistää eläinten kaltoin kohtelua tai rohkaisee siihen. Ymmärrämme, että väkivaltaisen sisällön julkaisemiseen on joskus syitä (esim. opetus, uutisointi, taide, satiiri, dokumentti jne.), joten jos aiot julkaista jotakin väkivaltaista sisältöä, joka ei riko näitä ehtoja, varmista, että teet katsojalle selväksi julkaisun syyn.
+Älä julkaise sisältöä, joka rohkaisee, ylistää, yllyttää tai kehottaa fyysiseen vahingoittamiseen tai väkivaltaan yksilöä (mukaan lukien itseäsi) tai ihmisryhmää vastaan; älä myöskään julkaise sisältöä, joka ylistää eläinten kaltoin kohtelua tai rohkaisee siihen. Ymmärrämme, että väkivaltaisen sisällön julkaisemiseen on joskus syitä (esim. opetus, uutisointi, taide, satiiri, dokumentti jne.), joten jos aiot julkaista väkivaltaista sisältöä, joka ei riko näitä ehtoja, varmista, että teet katsojalle selväksi julkaisun syyn.
 
 Esimerkkejä väkivaltaisesta sisällöstä, joka rikkoo tätä sääntöä:
 
@@ -27,7 +27,7 @@ Esimerkkejä väkivaltaisesta sisällöstä, joka rikkoo tätä sääntöä:
 * Julkaisut, jotka sisältävät joukkomurhaajien julistuksia tai kuvia heidän väkivaltaisuudestaan.
 * Terroristinen sisältö, mukaan lukien propaganda.
 * Julkaisut, jotka sisältävät kuvia tai tekstiä, jotka yllyttävät, ihannoivat tai rohkaisevat itsensä vahingoittamiseen tai itsemurhaan.
-* Viestit, joissa pyydetään tai annetaan ohjeita itsensä vahingoittamiseen tai itsemurhaan.
+* Julkaisut, joissa pyydetään tai annetaan ohjeita itsensä vahingoittamiseen tai itsemurhaan.
 * Graafinen väkivalta, kuva tai video ilman asianmukaista asiayhteyttä.
 
 #### Ei vihaa
@@ -43,17 +43,17 @@ Esimerkkejä vihamielisestä toiminnasta, joka rikkoisi sääntöä:
 
 ### 2\. Noudata sääntöjä
 
-Noudata yhteisön sääntöjä. Julkaise aitoa sisältöä yhteisöihin, joista olet henkilökohtaisesti kiinnostunut, äläkä huijaa tai osallistu sisällön manipulointiin (mukaan lukien roskapostitus, äänten manipulointi, kieltojen kiertäminen tai seuraajapetokset) tai muulla tavoin häiritse tai häiritse yhteisöjämme. Älä julkaise tai jaa harhaanjohtavaa, häiritsevää, haitallista tai kiellettyä sisältöä.
+Noudata yhteisöjen sääntöjä. Julkaise aitoa sisältöä yhteisöihin, joista olet henkilökohtaisesti kiinnostunut, äläkä huijaa tai osallistu sisällön manipulointiin (mukaan lukien roskapostitus, äänten manipulointi, kieltojen kiertäminen tai seuraajapetokset) tai muulla tavoin häiritse yhteisöjämme. Älä julkaise tai jaa harhaanjohtavaa, häiritsevää, haitallista tai kiellettyä sisältöä.
 
 #### Ei roskapostia
 
-Roskapostilla tarkoitetaan toistuvia, ei-toivottuja ja/tai ei-toivottuja toimia, olivatpa ne automaattisia tai manuaalisia. Roskaposti on laitonta ja rikkoo Käyttäjäsopimustamme ja Sisältöohjeita, ja siitä voidaan rangaista sisällön poistamisella, tilin keskeyttämisellä tai sulkemisella ja mahdollisilla oikeustoimilla.
+Roskapostilla tarkoitetaan toistuvia, ei-toivottuja toimia, olivatpa ne automaattisia tai manuaalisia. Roskaposti on laitonta ja rikkoo Käyttäjäsopimustamme ja Sisältöohjeitamme, ja siitä voidaan rangaista sisällön poistamisella, tilin keskeyttämisellä tai sulkemisella ja mahdollisilla oikeustoimilla.
 
 Miten voin välttää roskapostittajaksi leimautumisen?
 
 * Julkaise aitoa sisältöä.
 * Jos kirjoituksesi koostuvat pääasiassa linkkeistä yritykseen, jota pyörität, omistat tai josta muuten hyödyt, ole varovainen ja harkitse maksullisia mainosmahdollisuuksia.
-* Jos olet epävarma siitä, pidetäänkö sisältösi roskapostina tai ei-toivottuna, ota yhteyttä yhteisön moderaattoreihin. Yhteisöillä voi olla näiden ohjeiden lisäksi erityisiä sääntöjä.
+* Jos olet epävarma siitä, pidetäänkö sisältöäsi roskapostina tai ei-toivottuna, ota yhteyttä yhteisön ylläpitäjiin. Yhteisöillä voi olla näiden ohjeiden lisäksi erityisiä sääntöjä.
 
 #### Ei äänestysten manipulointia
 
@@ -63,7 +63,7 @@ Miten voin välttää roskapostittajaksi leimautumisen?
 * Ihmisten pyytäminen äänestämään tiettyjä viestejä ylös- tai alaspäin joko tällä alustalla tai sosiaalisten verkostojen, viestien jne. välityksellä henkilökohtaisen hyödyn tavoittelemiseksi.
 * Sellaisen ryhmän muodostaminen, tai sellaiseen ryhmään liittyminen, joka äänestää yhdessä tietyn julkaisun tai käyttäjän puolesta tai sitä vastaan.
 
-Huijaaminen tai äänestysten manipuloinnin yrittäminen johtavat tilisi käyttökieltoon.
+Huijaaminen tai äänten manipuloinnin yrittäminen johtavat tilisi käyttökieltoon.
 
 #### Kielletty ja rajoitettu sisältö
 Emme salli seuraavanlaista sisältöä:
@@ -85,7 +85,7 @@ Häirintään yllyttäminen, esimerkiksi paljastamalla jonkun henkilökohtaisia 
 
 Emme salli sisältöä, joka edistää alaikäisten seksuaalista, väkivaltaista tai muuta hyväksikäyttöä, mukaan lukien kuvitteellisten alaikäisten seksualisointi.
 
-### 5\. Ei henkilöitymistä
+### 5\. Älä esiinny toisena henkilönä
 
 Älä esitä henkilöä tai muuta tahoa harhaanjohtavalla tai petollisella tavalla. Vaikka sallimmekin satiirin ja parodian, otamme aina huomioon sisällön asiayhteyden.
 
