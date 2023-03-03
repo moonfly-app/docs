@@ -1,7 +1,7 @@
 Content Guidelines
 ------------------
 
-Last revised November 11, 2022.
+Last revised March 3, 2023.
 
 We encourage thoughtful debate with respect for all points of view. However, we forbid some behavior in order to maintain a secure and friendly environment where a variety of people can engage in meaningful conversations.
 
@@ -15,7 +15,7 @@ Everyone has a right to use the platform free of harassment, bullying, and thre
 
 #### Do not harass
 
-We do not tolerate the harassment, threatening, or bullying of people on our site; nor do we tolerate communities dedicated to this behavior.
+We do not tolerate the harassment, threatening, or bullying of people on our platform; nor do we tolerate communities dedicated to this behavior.
 
 Being annoying, downvoting, or disagreeing with someone, even strongly, is not harassment. However, menacing someone, directing abuse at a person or group, following them around the platform, encouraging others to do any of these actions, or otherwise behaving in a way that would discourage a reasonable person from participating on the platform crosses the line.
 
