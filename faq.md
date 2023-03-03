@@ -7,7 +7,7 @@ FAQ
 
 **Moonfly is the social media platform that pays its content creators.**
 
-Users can post photos, images, articles, links, memes, questions, ideas, and, in the near future, videos.
+Users can post photos, articles, links, memes, questions, ideas, and videos.
 
 Learn more at: [https://www.moonfly.app/p/1667730666349u133756\_1667750314105p344951](https://www.moonfly.app/p/1667730666349u133756_1667750314105p344951).
 
