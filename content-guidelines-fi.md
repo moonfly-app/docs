@@ -1,11 +1,11 @@
 Sisältöohjeet
 ------------------
 
-Kannustamme harkittuun keskusteluun kaikkia näkökantoja kunnioittaen. Kiellämme kuitenkin tietynlaisen käyttäytymisen, jotta voimme ylläpitää turvallista ja ystävällistä ympäristöä, jossa erilaiset ihmiset voivat käydä mielekkäitä keskusteluja.
+Haluamme tukea ajatuksia herättävää keskustelua, jossa kunnioitetaan kaikkia näkökantoja. Kiellämme kuitenkin tietynlaisen käyttäytymisen, jotta voimme ylläpitää turvallista ja ystävällistä ympäristöä, jossa erilaiset ihmiset voivat käydä mielekkäitä keskusteluja.
 
-Jokainen profiili ja yhteisö on omistajansa ja käyttäjiensä määrittelemä. Osa käyttäjistä voi auttaa yhteisön ylläpitämisessä. Noudata aina yhteisöjen sääntöjä, äläkä puutu yhteisöihin, joihin et kuulu.
+Jokainen profiili ja yhteisö on omistajansa ja käyttäjiensä muovaama. Joillakin yhteisöillä on omat sääntönsä, ja ylläpitäjiä, jotka vastaavat siitä, että kaikki noudattavat sääntöjä. On tärkeää toimia yhteistyössä ylläpitäjien kanssa ja noudattaa heidän ohjeistustaan, jotta kaikilla yhteisön jäsenillä olisi miellyttävä olla. Älä puutu yhteisöihin, joihin et kuulu.
 
-Yhteisökohtaisten sääntöjen lisäksi kaikkien alustan käyttäjien on noudatettava myös näitä sisältöohjeita. Pyydämme sinua noudattamaan näiden sääntöjen kirjaimen lisäksi myös niiden henkeä. Sellaiset yhteisökohtaiset säännöt, jotka ovat ristiriidassa näiden sisältöohjeiden kanssa, on jätettävä huomiotta.
+Yhteisökohtaisten sääntöjen lisäksi kaikkien alustan käyttäjien on noudatettava myös näitä sisältöohjeita. Pyydämme, että noudatat näiden sääntöjen kirjaimellisen tulkinnan lisäksi myös niiden tarkoitusta. Yhteisökohtaiset säännöt, jotka ovat ristiriidassa näiden sisältöohjeiden kanssa, on jätettävä huomiotta.
 
 ### 1\. Käyttäydy
 
