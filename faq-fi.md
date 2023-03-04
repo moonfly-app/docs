@@ -25,7 +25,7 @@ Uskomme, että sosiaalisessa mediassa raha kuuluu sisällöntuottajille, ei milj
 
 Tietokantamme sijaitsevat Saksassa.
 
-### Rahoitus
+### Ansaintamahdollisuus
 
 #### Miten voin ansaita rahaa Moonflylla?
 
