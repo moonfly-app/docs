@@ -51,11 +51,11 @@ Koska mainosverkostot maksavat meille eri aikoina, maksamme tällä hetkellä 60
 
 #### Miten voin seurata tulojani?
 
-Näet arvioidut tulosi profiiliasetuksissasi sekä vireillä olevat ja suoritetut maksut tilisi asetuksissa.
+Näet arvioidut tulosi profiiliasetuksissasi sekä avoimet ja suoritetut maksut tilisi asetuksissa.
 
 #### Mistä rahat tulevat?
 
-Alusta on mainosrahotteinen, eli tulomme tulevat mainostajilta. Pyrimme pitämään mainosten määrän kohtuullisena ja samalla sisällöntuottajille kannattavana.
+Alusta on mainosrahotteinen, eli tulomme tulevat mainostajilta. Pyrimme pitämään mainosten määrän kohtuullisena, mutta samalla sisällöntuottajille kannattavana.
 
 #### Missä mainokset ovat?
 
