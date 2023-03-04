@@ -1,13 +1,13 @@
 Content Guidelines
 ------------------
 
-Last revised March 3, 2023.
+Last revised March 4, 2023.
 
 We encourage thoughtful debate with respect for all points of view. However, we forbid some behavior in order to maintain a secure and friendly environment where a variety of people can engage in meaningful conversations.
 
-Every profile and community on the platform is defined by its owner and users. Some of these users help manage the community as moderators. Please abide by the rules of communities in which you participate and do not interfere with those you are not a part of.
+Every profile and community is shaped by its owner and users. Some communities have their own rules, and moderators who are responsible for ensuring that everyone abides by the rules. It is important to work collaboratively with moderators and follow their guidance to ensure a positive experience for everyone in the community. Do not interfere with communities you are not a part of.
 
-In addition to community specific rules, all users on the platform must also abide by these Content Guidelines. We ask that you abide by not just the letter of these rules, but the spirit as well. Community specific rules which conflict with these Content Guidelines should be ignored.
+In addition to community specific rules, all users on the platform must also abide by these Content Guidelines. We ask that you comply with not only the literal interpretation of these rules but also their intended meaning. Community specific rules which conflict with these Content Guidelines should be ignored.
 
 ### 1\. Behave
 
