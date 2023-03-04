@@ -5,7 +5,7 @@ Usein kysyttyä
 
 #### Mikä on Moonfly?
 
-**Moonfly on sosiaalisen median alusta, joka maksaa sisällöntuottajilleen.**
+Moonfly on sosiaalisen median alusta, joka maksaa sisällöntuottajilleen.
 
 Palvelussa voi julkaista kuvia, artikkeleita, linkkejä, meemejä, kysymyksiä, ideoita ja videoita.
 
